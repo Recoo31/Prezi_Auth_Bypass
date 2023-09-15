@@ -15,3 +15,5 @@ PreziBypass is console application that shows the Prezi Desktop licence as "pro 
 1. Download source or release and jump to step 3.
 2. Compile and run the application.
 3. Watch the video.
+
+https://github.com/Recoo31/Prezi_Auth_Bypass/assets/104390148/098705b8-29fc-4ba6-9125-4568850c6cc3
